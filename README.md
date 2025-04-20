@@ -5,12 +5,12 @@ Welcome to the Premium Blogger Templates Collection – a handpicked set of styl
 Each template in this repository is crafted with both aesthetics and performance in mind. They are optimized for fast loading times, mobile responsiveness, and SEO best practices – ensuring your blog looks great and performs well on all devices.
 
 Key Features:
-✅ Responsive Design – Mobile-friendly layouts that adapt beautifully to all screen sizes
-✅ SEO Optimized – Improve your search visibility with clean code and structure
-✅ Modern & Clean Layouts – Eye-catching, professional designs for any type of blog
-✅ Customizable Elements – Easily change fonts, colors, layouts, and more
-✅ Editable Footer Credits – You have full control; edit or remove footer credits as needed
-✅ Free to Use – All templates are 100% free to download, use, and modify
+* ✅ Responsive Design – Mobile-friendly layouts that adapt beautifully to all screen sizes
+* ✅ SEO Optimized – Improve your search visibility with clean code and structure
+* ✅ Modern & Clean Layouts – Eye-catching, professional designs for any type of blog
+* ✅ Customizable Elements – Easily change fonts, colors, layouts, and more
+* ✅ Editable Footer Credits – You have full control; edit or remove footer credits as needed
+* ✅ Free to Use – All templates are 100% free to download, use, and modify
 
 ## How to Use
 Browse through the collection and choose the template you like.
